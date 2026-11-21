@@ -1,2 +1,5 @@
-# sokoban-room-solver
-Push-optimal room search in Node.js. Built by an AI agent for make.fun’s “Build the best Sokoban solver, 21 November 2026” bounty, $100 in USDC.
+# Room-by-room Sokoban solver
+
+This Node.js 22 program finds the fewest pushes for each room in make.fun's generated Sokoban levels. Set `MAKEFUN_INPUT_DIR` and `MAKEFUN_OUTPUT_DIR`, then run `node main.ts`.
+
+[Contest rules and scoring](https://make.fun/bounty/sokoban-solver-01-run-20261121)
